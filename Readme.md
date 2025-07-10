@@ -102,7 +102,7 @@ This Streamlit application acts as a multi-agent AI system (simulated within a s
 
     This command will open the application in your default web browser (usually at http://localhost:8501).
 
-####⚙️ How to Use
+#### ⚙️ How to Use
     Once the app is running, paste the URL of a GitHub repository (public or private) into the input field.
 
     If it's a private repository, also paste your GitHub Personal Access Token into the designated field.
