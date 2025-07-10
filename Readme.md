@@ -1,4 +1,4 @@
-#### 🤖 Advanced GitHub Repository Explainer AI
+## 🤖 Advanced GitHub Repository Explainer AI ##
     This Streamlit application acts as a multi-agent AI system (simulated within a single script) to deeply analyze and explain GitHub repositories, including both public and private ones. It provides comprehensive insights into the repository's purpose, technologies, file structure, and step-by-step instructions on how to set up and run the project. It can even generate a new README.md for the repository!
 
 #### ✨ Features
@@ -94,19 +94,19 @@
      Create a file named app.py in the root of your project directory and paste the content provided in the last section.
 
 #### ▶️ How to Run the Application
-Ensure your virtual environment is activated (from step 4 above).
+    Ensure your virtual environment is activated (from step 4 above).
 
-Run the Streamlit application:
+    Run the Streamlit application:
 
-streamlit run app.py
+    streamlit run app.py
 
-This command will open the application in your default web browser (usually at http://localhost:8501).
+    This command will open the application in your default web browser (usually at http://localhost:8501).
 
-⚙️ How to Use
-Once the app is running, paste the URL of a GitHub repository (public or private) into the input field.
+####⚙️ How to Use
+    Once the app is running, paste the URL of a GitHub repository (public or private) into the input field.
 
-If it's a private repository, also paste your GitHub Personal Access Token into the designated field.
+    If it's a private repository, also paste your GitHub Personal Access Token into the designated field.
 
-Click the "Explain Repository" button.
+    Click the "Explain Repository" button.
 
-The AI will clone the repository, analyze its contents using its "agents" (simulated LLM calls), and then generate a detailed explanation, including setup and running instructions, and a new README.md file.
+    The AI will clone the repository, analyze its contents using its "agents" (simulated LLM calls), and then generate a detailed explanation, including setup and running instructions, and a new README.md file.
