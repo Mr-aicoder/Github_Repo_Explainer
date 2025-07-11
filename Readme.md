@@ -10,7 +10,7 @@ This Streamlit application acts as a multi-agent AI system to deeply analyze and
  
     Overall Repository Explanation: Provides the core purpose, key technologies, and an overview of the repository's main folders.
 
-    Requirements Explanation: Analyzes requirements.txt (or similar) and explains each major dependency.
+    Requirements Explanation: Analyzes requirements.txt and explains each major dependency.
 
     Environment Variables Explanation: Breaks down .env or .env.example content, explaining the likely purpose of each variable.
 
