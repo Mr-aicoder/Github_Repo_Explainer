@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import json 
 import time 
 import stat 
-import gc
+import gc 
 from urllib.parse import urlparse, urlunparse
 from typing import TypedDict, Annotated, List, Dict
 
