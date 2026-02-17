@@ -2,7 +2,7 @@
 This Streamlit application acts as a multi-agent AI system to deeply analyze and explain GitHub repositories,  including both public and private ones. It provides comprehensive insights into the repository's purpose, technologies, file structure, and step-by-step instructions on how to set up and run the project. It can even generate a new README.md for the repository. 
 
 #### ✨ Features
-    Repository Access: Supports cloning both public and private GitHub repositories (requires a Personal Access Token for private repos).
+    Repository Access: Supports cloning both public and private GitHub repositories (requires a Personal Access Token for private repos). 
 
     Intelligent File Analysis: Prioritizes key files (README.md, requirements.txt, .env, package.json, etc.) and strategically samples others to infer project details.
 
